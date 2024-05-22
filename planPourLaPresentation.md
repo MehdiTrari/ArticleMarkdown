@@ -53,5 +53,3 @@
 
 - **Exploration des attentes des utilisateurs :**
   Étudier ce que les piétons attendent des véhicules autonomes pour mieux concevoir des systèmes de communication efficaces.
-
-Ce plan vous permettra de structurer votre présentation de manière claire et efficace, en répondant aux exigences de la soutenance. Si vous avez besoin d'informations supplémentaires ou de précisions sur certains points, n'hésitez pas à me le faire savoir.
