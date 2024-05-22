@@ -8,7 +8,7 @@ Nous avons choisi cet article parce qu'il aborde une problématique cruciale pou
 
 ### Première Partie: Présentation du domaine de recherche et des définitions à connaître
 
-#### Communication d'intention (Intent Communication System - ICS)
+#### Système de Communication d'Intention (Intent Communication System - ICS)
 La communication d'intention (ICS) est un système conçu pour signaler clairement les intentions des véhicules autonomes aux piétons. Ce système utilise des dispositifs matériels comme des LED et des haut-parleurs pour afficher des messages visuels et audio (Pages 3-4). Par exemple, des messages comme "Cross Now" peuvent être affichés pour indiquer aux piétons qu'ils peuvent traverser en toute sécurité (Page 4). L'ICS vise à remplacer les signaux visuels traditionnels utilisés par les conducteurs humains, en fournissant des indications claires et prévisibles.
 
 #### Problèmes d'interaction véhicule-piéton
