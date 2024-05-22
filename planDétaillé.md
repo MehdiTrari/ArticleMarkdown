@@ -13,12 +13,29 @@ La communication d'intention (ICS) est un système conçu pour signaler claireme
 
 #### Problèmes d'interaction véhicule-piéton
 Les interactions entre les véhicules autonomes et les piétons présentent des défis uniques. Sans conducteur humain pour fournir des signaux visuels directs, il est nécessaire de développer des systèmes qui peuvent communiquer les intentions du véhicule de manière intuitive et compréhensible pour les piétons (Pages 1-2). La confiance des piétons dans les actions des véhicules autonomes est essentielle pour éviter les situations de blocage et les accidents. Par exemple, lors des expériences, il a été observé que les piétons réagissent plus positivement lorsque l'intention du véhicule est clairement communiquée via l'ICS (Pages 4-5).
+##### Modèles de Processus de Décision Markov Décentralisés (Dec-MDP)
+Pour modéliser les interactions entre les piétons et les véhicules autonomes, l'article utilise les Processus de Décision Markov Décentralisés (Dec-MDP). Ce modèle permet de prendre en compte l'incertitude des actions des piétons et du véhicule en observant leurs états respectifs et en ajustant les actions en conséquence (Pages 7-8). Les Dec-MDP sont utilisés pour simuler différentes situations et évaluer comment les piétons réagissent aux actions du véhicule, ce qui aide à améliorer la conception du système ICS.
 
-#### Modèles de Processus de Décision Markov Décentralisés (Dec-MDP)
-Pour modéliser les interactions entre les piétons et les véhicules autonomes, l'article utilise les Processus de Décision Markov Décentralisés (Dec-MDP). Ce modèle permet de prendre en compte l'incertitude des actions des piétons et du véhicule en observant leurs états respectifs et en ajustant les actions en conséquence (Pages 7-8). Les Dec-MDP sont utilisés pour simuler différentes situations et évaluer comment les piétons réagissent aux actions du véhicule, ce qui aide à améliorer la conception du système ICS (Page 9).
+- **Structure du Modèle Dec-MDP :**
+  - Les états du monde (\(S\)) sont partagés par les deux agents (piéton et véhicule) et incluent des informations telles que les positions et les intentions.
+  - Les actions (\(A\)) prises par les agents incluent des mouvements tels que avancer, reculer, tourner, ou attendre (Pages 8-9).
+  - La fonction de transition (\(P\)) définit la probabilité de passer d'un état à un autre après avoir pris certaines actions.
+  - La fonction de récompense (\(R\)) mesure l'efficacité des actions en termes de sécurité et de communication réussie des intentions (Pages 8-9).
 
-#### Importance de la Connaissance Préalable
+- **Application dans les Simulations :**
+  - Les simulations utilisent le Dec-MDP pour prédire les actions des piétons en fonction des observations des états du véhicule et de ses signaux de communication (Pages 8-9).
+  - Le modèle aide à ajuster les politiques du véhicule pour maximiser la confiance des piétons et minimiser les risques de collision (Page 9).
+
+##### Importance de la Connaissance Préalable
 L'article souligne également l'importance de la connaissance préalable des piétons sur le fonctionnement des véhicules autonomes. Les expériences ont montré que les piétons qui ont été introduits au système ICS et qui comprennent son fonctionnement sont plus susceptibles de faire confiance aux actions du véhicule et de réagir de manière prévisible (Pages 6-7). Cette connaissance préalable réduit l'hésitation des piétons et augmente leur confort autour des véhicules autonomes.
+
+- **Résultats des Tests Réels :**
+  - Les participants qui avaient une connaissance préalable de l'ICS ont montré une confiance accrue et étaient plus à l'aise pour interagir avec le véhicule (Pages 6-7).
+  - Ces participants ont également montré une réduction significative de l'hésitation et une meilleure compréhension des intentions du véhicule (Pages 6-7).
+
+- **Impact sur la Conception du Système :**
+  - Les résultats suggèrent que l'introduction des piétons aux fonctionnalités et au fonctionnement du système ICS avant l'interaction réelle est cruciale pour assurer une interaction fluide et sécurisée (Page 7).
+  - Cette introduction peut inclure des démonstrations pratiques ou des explications sur le fonctionnement des signaux visuels et audio du véhicule (Page 7).
 
 ### Références aux Pages
 - **Page 1:** Introduction à la problématique de la communication d'intention entre véhicules autonomes et piétons.
