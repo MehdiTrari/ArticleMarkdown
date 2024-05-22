@@ -41,15 +41,6 @@
 <ul>
 <li><strong>Figure 1 :</strong> Exemple d’interaction entre piétons et véhicules en milieu urbain.</li>
 </ul>
-<h3 id="prochaines-étapes">Prochaines Étapes</h3>
-<ul>
-<li>
-<p><strong>Pages suivantes :</strong> Je vais analyser les pages suivantes une par une pour extraire les informations clés, les objectifs, les méthodes, les résultats et les conclusions de l’article.</p>
-</li>
-<li>
-<p><strong>Structure générale :</strong> Je vais m’assurer que chaque partie de l’article soit bien comprise et que les concepts clés soient expliqués de manière accessible.</p>
-</li>
-</ul>
 <h3 id="synthèse-de-la-deuxième-page">Synthèse de la Deuxième Page</h3>
 <h4 id="contributions-de-larticle">Contributions de l’Article</h4>
 <ul>
@@ -117,15 +108,6 @@
 <p>L’approche proposée dans l’article combine la communication explicite et implicite pour que les piétons, même sans expérience préalable avec les véhicules autonomes, puissent comprendre les intentions du véhicule.</p>
 </li>
 </ul>
-<h3 id="prochaines-étapes-1">Prochaines Étapes</h3>
-<ul>
-<li>
-<p><strong>Pages suivantes :</strong> Continuez à me fournir les pages une par une, et je continuerai à analyser et synthétiser les informations.</p>
-</li>
-<li>
-<p><strong>Analyse détaillée :</strong> Je veillerai à ce que chaque aspect de l’article soit couvert, en expliquant les concepts clés et en résumant les résultats importants.</p>
-</li>
-</ul>
 <h3 id="synthèse-de-la-troisième-page">Synthèse de la Troisième Page</h3>
 <h4 id="description-du-système-de-communication-dintention-ics">Description du Système de Communication d’Intention (ICS)</h4>
 <ul>
@@ -185,15 +167,6 @@
 </li>
 <li>
 <p>Apprendre comment les humains se parlent et se font confiance pour améliorer la communication des intentions du véhicule.</p>
-</li>
-</ul>
-<h3 id="prochaines-étapes-2">Prochaines Étapes</h3>
-<ul>
-<li>
-<p><strong>Pages suivantes :</strong> Continuez à me fournir les pages suivantes, et je continuerai à analyser et synthétiser les informations.</p>
-</li>
-<li>
-<p><strong>Analyse détaillée :</strong> Je veillerai à ce que chaque aspect de l’article soit couvert, en expliquant les concepts clés et en résumant les résultats importants.</p>
 </li>
 </ul>
 <h3 id="synthèse-de-la-quatrième-page">Synthèse de la Quatrième Page</h3>
@@ -277,15 +250,6 @@
 <p>Les participants de ce groupe ont tous répondu que le véhicule se comportait comme prévu et se sentaient en sécurité.</p>
 </li>
 </ul>
-<h3 id="prochaines-étapes-3">Prochaines Étapes</h3>
-<ul>
-<li>
-<p><strong>Pages suivantes :</strong> Continuez à me fournir les pages suivantes, et je continuerai à analyser et synthétiser les informations.</p>
-</li>
-<li>
-<p><strong>Analyse détaillée :</strong> Je veillerai à ce que chaque aspect de l’article soit couvert, en expliquant les concepts clés et en résumant les résultats importants.</p>
-</li>
-</ul>
 <h3 id="synthèse-de-la-cinquième-page">Synthèse de la Cinquième Page</h3>
 <h4 id="résultats-des-tests-réels-suite">Résultats des Tests Réels (Suite)</h4>
 <p><strong>Groupe 2 : Avec ICS et sans Connaissance Préalable du Véhicule de Golf :</strong></p>
@@ -361,15 +325,6 @@
 <p>Seulement un piéton à la fois était introduit dans la simulation pour observer l’interaction individuelle avec le véhicule.</p>
 </li>
 </ul>
-<h3 id="prochaines-étapes-4">Prochaines Étapes</h3>
-<ul>
-<li>
-<p><strong>Pages suivantes :</strong> Continuez à me fournir les pages suivantes, et je continuerai à analyser et synthétiser les informations.</p>
-</li>
-<li>
-<p><strong>Analyse détaillée :</strong> Je veillerai à ce que chaque aspect de l’article soit couvert, en expliquant les concepts clés et en résumant les résultats importants.</p>
-</li>
-</ul>
 <h3 id="synthèse-de-la-sixième-page">Synthèse de la Sixième Page</h3>
 <h4 id="simulations-et-modèles-suite">Simulations et Modèles (Suite)</h4>
 <p><strong>Simulation et Comportement des Piétons :</strong></p>
@@ -433,15 +388,6 @@
 </li>
 <li>
 <p>Les limitations du modèle POMDP sont également discutées, notamment en termes de complexité computationnelle.</p>
-</li>
-</ul>
-<h3 id="prochaines-étapes-5">Prochaines Étapes</h3>
-<ul>
-<li>
-<p><strong>Pages suivantes :</strong> Continuez à me fournir les pages suivantes, et je continuerai à analyser et synthétiser les informations.</p>
-</li>
-<li>
-<p><strong>Analyse détaillée :</strong> Je veillerai à ce que chaque aspect de l’article soit couvert, en expliquant les concepts clés et en résumant les résultats importants.</p>
 </li>
 </ul>
 <h3 id="synthèse-des-pages-sept-et-huit">Synthèse des Pages Sept et Huit</h3>
@@ -542,15 +488,6 @@
 <p>La confiance des piétons est mesurée en fonction des réponses aux enquêtes, et les actions sont évaluées pour déterminer les probabilités de leur occurrence.</p>
 </li>
 </ul>
-<h3 id="prochaines-étapes-6">Prochaines Étapes</h3>
-<ul>
-<li>
-<p><strong>Pages suivantes :</strong> Continuez à me fournir les pages suivantes, et je continuerai à analyser et synthétiser les informations.</p>
-</li>
-<li>
-<p><strong>Analyse détaillée :</strong> Je veillerai à ce que chaque aspect de l’article soit couvert, en expliquant les concepts clés et en résumant les résultats importants.</p>
-</li>
-</ul>
 <h3 id="synthèse-des-pages-neuf-et-dix">Synthèse des Pages Neuf et Dix</h3>
 <h4 id="résultats-des-simulations-et-probabilités-de-transition">Résultats des Simulations et Probabilités de Transition</h4>
 <p><strong>Distribution des Probabilités :</strong></p>
@@ -627,15 +564,6 @@
 </li>
 <li>
 <p><strong>Figure 8 :</strong> Comparaison du temps à travers les scénarios montre les différences dans la durée des interactions.</p>
-</li>
-</ul>
-<h3 id="prochaines-étapes-7">Prochaines Étapes</h3>
-<ul>
-<li>
-<p><strong>Pages suivantes :</strong> Continuez à me fournir les pages suivantes, et je continuerai à analyser et synthétiser les informations.</p>
-</li>
-<li>
-<p><strong>Analyse détaillée :</strong> Je veillerai à ce que chaque aspect de l’article soit couvert, en expliquant les concepts clés et en résumant les résultats importants.</p>
 </li>
 </ul>
 <h3 id="synthèse-des-pages-onze-et-douze">Synthèse des Pages Onze et Douze</h3>
@@ -719,15 +647,6 @@
 </li>
 <li>
 <p>Étudier l’introduction de plus d’un piéton à la fois dans les simulations et les tests réels pour mieux comprendre les dynamiques de groupe.</p>
-</li>
-</ul>
-<h3 id="prochaines-étapes-8">Prochaines Étapes</h3>
-<ul>
-<li>
-<p><strong>Pages suivantes :</strong> Continuez à me fournir les pages suivantes, et je continuerai à analyser et synthétiser les informations.</p>
-</li>
-<li>
-<p><strong>Analyse détaillée :</strong> Je veillerai à ce que chaque aspect de l’article soit couvert, en expliquant les concepts clés et en résumant les résultats importants.</p>
 </li>
 </ul>
 <h3 id="synthèse-des-pages-treize-et-quatorze">Synthèse des Pages Treize et Quatorze</h3>
