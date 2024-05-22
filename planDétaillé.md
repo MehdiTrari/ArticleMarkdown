@@ -37,14 +37,6 @@ L'article souligne également l'importance de la connaissance préalable des pi�
   - Les résultats suggèrent que l'introduction des piétons aux fonctionnalités et au fonctionnement du système ICS avant l'interaction réelle est cruciale pour assurer une interaction fluide et sécurisée (Page 7).
   - Cette introduction peut inclure des démonstrations pratiques ou des explications sur le fonctionnement des signaux visuels et audio du véhicule (Page 7).
 
-### Références aux Pages
-- **Page 1:** Introduction à la problématique de la communication d'intention entre véhicules autonomes et piétons.
-- **Page 2:** Exploration de la psychologie derrière la perception des véhicules autonomes par les piétons.
-- **Pages 3-4:** Description du système ICS et des composants matériels et logiciels utilisés.
-- **Pages 4-5:** Résultats des tests en conditions réelles montrant l'impact positif de l'ICS sur la confiance des piétons.
-- **Pages 7-8:** Présentation des modèles Dec-MDP utilisés pour simuler les interactions et ajuster les actions des véhicules.
-- **Pages 6-7:** Importance de la connaissance préalable des piétons sur le fonctionnement des véhicules autonomes et l'impact sur leur comportement.
-
 ### Deuxième Partie: Le Fond de l’Article
 
 #### Objectif de l’Article
